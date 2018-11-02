@@ -2,7 +2,7 @@
 Forked from https://github.com/GoogleCloudPlatform/kubernetes-bigquery-python and then dutifully hacked.
 
 ## Architecture
-Twitter -> App Engine Flex -> PubSub -> Dataflow -> BigQuery
+Twitter -> App Engine Flex -> PubSub -> Dataflow -> BigQuery --> Datalab --> NLP API
 
 ## Prerequisites
  - A PubSube topic
